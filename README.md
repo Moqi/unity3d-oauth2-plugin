@@ -11,7 +11,7 @@ Development pritority:
 
 License
 =========
-MIT LICENSE developed by [Amsgames](http://www.amsgames.com)
+MIT LICENSE, software developed by [Amsgames](http://www.amsgames.com)
 
 Policies
 ========
